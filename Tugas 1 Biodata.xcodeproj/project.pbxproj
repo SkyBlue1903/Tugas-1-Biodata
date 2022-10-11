@@ -13,6 +13,8 @@
 		57BEE61E28F504DC00C3E474 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57BEE61C28F504DC00C3E474 /* Main.storyboard */; };
 		57BEE62028F504DD00C3E474 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57BEE61F28F504DD00C3E474 /* Assets.xcassets */; };
 		57BEE62328F504DD00C3E474 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57BEE62128F504DD00C3E474 /* LaunchScreen.storyboard */; };
+		57BEE62D28F506BD00C3E474 /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BEE62C28F506BD00C3E474 /* DescriptionViewController.swift */; };
+		57BEE62F28F50BD600C3E474 /* ColorScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57BEE62E28F50BD600C3E474 /* ColorScheme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		57BEE61F28F504DD00C3E474 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57BEE62228F504DD00C3E474 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57BEE62428F504DD00C3E474 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57BEE62C28F506BD00C3E474 /* DescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionViewController.swift; sourceTree = "<group>"; };
+		57BEE62E28F50BD600C3E474 /* ColorScheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorScheme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				57BEE61F28F504DD00C3E474 /* Assets.xcassets */,
 				57BEE62128F504DD00C3E474 /* LaunchScreen.storyboard */,
 				57BEE62428F504DD00C3E474 /* Info.plist */,
+				57BEE62C28F506BD00C3E474 /* DescriptionViewController.swift */,
+				57BEE62E28F50BD600C3E474 /* ColorScheme.swift */,
 			);
 			path = "Tugas 1 Biodata";
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				57BEE61B28F504DC00C3E474 /* ViewController.swift in Sources */,
+				57BEE62F28F50BD600C3E474 /* ColorScheme.swift in Sources */,
+				57BEE62D28F506BD00C3E474 /* DescriptionViewController.swift in Sources */,
 				57BEE61728F504DC00C3E474 /* AppDelegate.swift in Sources */,
 				57BEE61928F504DC00C3E474 /* SceneDelegate.swift in Sources */,
 			);
